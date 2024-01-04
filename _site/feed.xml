@@ -5,18 +5,20 @@
         <description>Menca personal blogging theme for Jekyll</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Oct 2023 00:08:23 +0100</pubDate>
-        <lastBuildDate>Wed, 18 Oct 2023 00:08:23 +0100</lastBuildDate>
-        <generator>Jekyll v4.3.2</generator>
+        <pubDate>Thu, 04 Jan 2024 16:40:06 +0000</pubDate>
+        <lastBuildDate>Thu, 04 Jan 2024 16:40:06 +0000</lastBuildDate>
+        <generator>Jekyll v3.9.3</generator>
         
             <item>
                 <title>What even is an app anyway?</title>
                 <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;When you first get started in your career you learn that you use Xcode as your IDE, you learn the basic building blocks of Swift, and how UIKit (SwiftUI for you new devs) can be used to forge our UI together. You press the play button in Xcode and you &lt;em&gt;hope&lt;/em&gt; that the iOS Simulator opens something that resembles what you had in your head. But what’s actually going on here? What even is an app to begin with?&lt;/p&gt;
+&lt;p&gt;When you first get started in your career you learn that you use Xcode as your IDE, you learn the basic building blocks of Swift, and how UIKit (SwiftUI for you new devs) can be used to forge our UI together. You press the play button in Xcode and &lt;em&gt;hope&lt;/em&gt; that the iOS Simulator opens something that resembles what you had in mind. But what’s actually going on here? What even is an app to begin with?&lt;/p&gt;
 
 &lt;p&gt;Taking a step back from code, when using apps on our Macs or iPhones we simply click/tap to launch them, but what are we actually doing? We could guess that the app involves some kind of binary but is the app icon itself the binary? Is that what we’re tapping when we open an app? 🤔&lt;/p&gt;
 
 &lt;h1 id=&quot;a-look-under-the-app-icon&quot;&gt;‌A look under the app icon&lt;/h1&gt;
+&lt;p&gt;If we examine our MacOS dock we can start to gather some clues as to what these apps are. Let’s open Finder and navigate to our Applications directory. From here, we can Right Click an application and take a look at the menu options provided to us.&lt;/p&gt;
+
 </description>
                 <pubDate>Tue, 17 Oct 2023 13:01:35 +0100</pubDate>
                 <link>http://localhost:4000/what-even-is-an-app</link>
@@ -24,7 +26,7 @@
                 
                 <category>app architecture</category>
                 
-                <category>basics</category>
+                <category>ios basics</category>
                 
                 
             </item>
